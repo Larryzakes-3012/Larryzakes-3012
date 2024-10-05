@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Larryzakes-3012
-- 👀 I’m interested in python for geo-spatial data analysis and programming
-- 🌱 I’m currently learning qgis, python and pyqgis
-- 💞️ I’m looking to collaborate on gis project on spatial analysis, app developments
+# About Me
+My names are Olanrewaju Isaac Oludare. I am a geotechnical engineer by training. I work for a marine civil engineering consultancy as a project geotechnical engineer.
+My works involves civil engineering feasibility and concept design, geotechnical investigations and laboratory testing, project management, contract administration, technical report writing, presentation etc
+I am open to any collaborative jobs from any part of the world, i also consult jobs to expert whereever their location is in the world. 
 - 📫 You can reach me through my email: bodjem@yahoo.co.uk or my linkedIn account: https://www.linkedin.com/in/olanrewaju-isaac-oludare-gmice-907b2543/details/experience/
 
 <!---
